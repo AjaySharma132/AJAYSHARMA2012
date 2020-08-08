@@ -23,9 +23,12 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 <br />
+<br />
 
+---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts:
+
 <!-- BLOG-POST-LIST:START -->
 - [GirlScript Summer Of Code: My 3 months long journey](https://medium.com/girlscript-summer-of-code/girlscript-summer-of-code-my-3-months-long-journey-b3844809e20b)
 - [Open Source and How did i get started with it?](https://medium.com/@ajaykrsharma132/guide-to-start-contributing-to-open-source-93e90468bffa)
