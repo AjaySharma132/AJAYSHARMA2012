@@ -1,6 +1,6 @@
 ### Hi there, I'm Ajay Sharma  👋
 
-## I'm a Computer Science Engineering Student, Developer, and Open Source Enthusiast!
+## I'm a Computer Science Engineering Student, Developer, and an Open Source Enthusiast!
 - 🔭 I’m currently working on a Django Project.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
