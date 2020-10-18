@@ -32,9 +32,9 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Git: My personal handbook/cheatsheet](https://medium.com/@ajaykrsharma132/git-cheat-sheet-a63aecbcb0dc)
 - [GirlScript Summer Of Code: My 3 months long journey](https://medium.com/girlscript-summer-of-code/girlscript-summer-of-code-my-3-months-long-journey-b3844809e20b)
 - [Open Source and How did i get started with it?](https://medium.com/@ajaykrsharma132/guide-to-start-contributing-to-open-source-93e90468bffa)
-- [Git: My personal handbook/cheatsheet](https://medium.com/@ajaykrsharma132/git-cheat-sheet-a63aecbcb0dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
